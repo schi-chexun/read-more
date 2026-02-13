@@ -1,0 +1,12 @@
+
+#left-sidebar::before {
+  content: "陈宣而 is noting";
+  display: block;
+  padding: 15px 20px;
+  font-family: 'Titillium Web', sans-serif;
+  font-weight: bold;
+  font-size: 1.2em;
+  color: var(--pink); /* 使用你代码里定义的粉色 */
+  text-shadow: 1px 1px 2px rgba(0,0,0,0.2);
+  letter-spacing: 1px;
+}
