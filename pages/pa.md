@@ -1,7 +1,9 @@
 # Codebook 相关论文汇总 (2023-2025)
 
 本文档汇总了近几年(2023-2025)关于codebook的重要论文,包括PDF链接和代码仓库地址。
-
+```c
+# include 
+```
 ---
 - ## 1. VAEVQ: Enhancing Discrete Visual Tokenization through Variational Modeling
   
@@ -22,9 +24,8 @@
   **关键创新**:
 - Variational Latent Quantization (VLQ)
 - Representation Coherence Strategy (RCS)
-- Distribution Consistency Regularization (DCR)
-  
-  ---
+- Distribution Consistency Regularization (DC）
+- ---
 - ## 2. Scaling the Codebook Size of VQGAN to 100,000 with a Utilization Rate of 99%
   
   **会议/期刊**: NeurIPS 2024
