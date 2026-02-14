@@ -1,0 +1,67 @@
+# 操作系统相关
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# 编辑器相关
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Python相关
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+venv/
+env/
+ENV/
+
+# Node.js相关
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+yarn.lock
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# 数据和模型文件（如果太大）
+*.h5
+*.pkl
+*.pth
+*.ckpt
+*.pt
+
+# 实验结果（可根据需要调整）
+# results/
+# checkpoints/
+
+# 临时文件
+*.tmp
+*.log
+.cache/
